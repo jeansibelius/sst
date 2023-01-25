@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.0.0-rc.52
+
+### Patch Changes
+
+- [#2378](https://github.com/serverless-stack/sst/pull/2378) [`ba1efbe39`](https://github.com/serverless-stack/sst/commit/ba1efbe39c0325222a02853e705ae9d12c29ea43) Thanks [@github-actions](https://github.com/apps/github-actions)! - Support MFA
+
 ## 2.0.0-rc.51
 
 ### Patch Changes
